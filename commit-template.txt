@@ -1,0 +1,14 @@
+# <type>(<scope>): <summary>
+#
+# type: feat | fix | refactor | style | docs | test | chore | ci
+# scope: module/page/component, e.g. home, auth, tasks, state, build
+# summary: imperative, concise, present tense
+#
+# Example:
+# feat(tasks): add due date and assignee picker
+#
+# Body (optional):
+# - Why this change is needed
+# - What was changed
+# - Any side effects or follow-ups
+
